@@ -1,5 +1,5 @@
 import properties from "./Data";
-import { useState } from "react";
+import React, { useState } from "react";
 
 function MainContent() {
  
